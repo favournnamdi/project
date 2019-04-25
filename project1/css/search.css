@@ -1,0 +1,76 @@
+.ban{
+    background-color: navy;
+    height: 500px;
+    color: white;
+    
+    
+}
+.ow{
+    margin-top: -50px;
+}
+.ban h2{
+    font-size: 40px;
+    padding: 30px;
+    margin-left: 40px;
+}
+.ban p{
+    margin-left: 40px;
+}
+.com{
+    background-color: white;
+}
+.rent{
+    margin-top: -220px;
+    margin-right: 90px;
+}
+.par1{
+    float: right;
+    margin-left: 10px;
+    text-align: center;
+    background-color: blue;
+    color: white;
+    height: 400px;
+    width: 300px;
+    
+}
+.par2{
+    float: right;
+    background-color: blue;
+    color: white;
+    height: 400px;
+    width: 300px;
+    text-align: center;
+
+}
+.set1{
+    background-color: white;
+    height: 300px;
+}
+.set1 h2{
+    color: burlywood;
+    padding: 30px;
+    margin-left: 60px;
+    
+}
+.set1 p{
+    color: navy;
+    margin-left: 80px;
+}
+.set2{
+    height: 300px;
+    }
+#d4 h1{
+    margin-left: 50px;
+    color: navy;
+    padding: 0px;
+    clear: both;
+}
+footer{
+    height: 100px;
+    background-color: black;
+}
+ul li{
+    color: white;
+    list-style-type: none;
+    
+}

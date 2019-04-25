@@ -1,0 +1,129 @@
+.navbar{
+    color: blue;
+}
+#d1{
+    color: white;
+    background-repeat: no-repeat;
+    background-size: 1500px 700px;
+    height: 400px;
+    width: 100%;
+    padding: 200px;
+}
+#sup{
+    background-color: orangered;
+    border-top-color: orangered;
+    border-left-color: orangered;
+    color: white;
+}
+a{
+    list-style-type: none;
+}
+.rent{
+    margin-top: -100px;
+    text-align: center;
+    overflow: hidden;
+    max-width: 850px;
+    margin-left: 105px;
+    /* background-image: linear-gradient(to right,orange, white) */
+}
+.par1{
+    height: 300px;
+    float: right;;
+}
+.par2{
+    height: 300px;
+    float: left;
+
+}
+h4{
+    clear: both;
+    margin-left: 50px; 
+    color: blue;   
+}
+#sec{
+    color: white;
+    background-color: tan;
+    padding: 10px;
+    font-size: 15px;
+    border: 0px;
+}
+#d4 h1{
+    margin-left: 50px;
+    color: navy;
+    padding: 80px;
+}
+.d4{
+    background-color: blue;
+    height: 100px;
+    clear: both;
+}
+.first{
+    background-color: tan;
+    height: 400px;
+}
+.first h1{
+    color: navy;
+}
+.second{
+    background-color: navy;
+    height: 500px;
+}
+.second h3{
+    color: tan;
+    text-align: center;
+    font-size: 80px;
+    padding: 30px;
+}
+.third{
+    background-color: lightgray;
+    height: 600px;
+}
+#but{
+    border: 0px;
+     background-color: tan; 
+     color: white; 
+     padding: 5px;
+     margin-left: 105px;
+}
+.test1{
+    margin-top: -50px;
+}
+.test1 h3{
+    color: navy;
+    padding: 60px;
+}
+.test2{
+    margin-top: 90px;
+}
+.test3{
+    height: 400px;
+    margin-left: 0px;
+    margin-top: 90px;
+}
+.set1{
+    background-color: white;
+    height: 300px;
+}
+.set1 h2{
+    color: burlywood;
+    padding: 30px;
+    margin-left: 60px;
+    
+}
+.set1 p{
+    color: navy;
+    margin-left: 80px;
+}
+.set2{
+    height: 300px;
+    max-width: 300px;
+}
+footer{
+    height: 100px;
+    background-color: black;
+}
+ul li{
+    color: white;
+    list-style-type: none;
+    
+}

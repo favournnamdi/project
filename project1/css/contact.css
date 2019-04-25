@@ -1,0 +1,43 @@
+#d1{
+    background-color: white;
+    color: navy;
+    height: 400px;
+    width: 100%;
+    padding: 90px;
+}
+#d1 h5{
+    font-family: sans-serif;
+    font-size: 50px;
+}
+.list1 li{
+    color: navy;
+    list-style-type: none;
+}
+input{
+    border: 0px;
+    border-bottom: 50px;
+}
+.fie{
+    text-align: center;
+}
+.sen h2{
+    color: navy;
+    padding: 10px;
+    font-size: 60px;
+}
+.lor{
+    float: left;
+}
+.form{
+    float: right;
+    border-bottom: 2px solid navy;
+}
+button{
+    background-color: burlywood;
+    border-color: burlywood;
+    color: white;
+    width: 70px;
+}
+ul li {
+    list-style-type: none;
+}

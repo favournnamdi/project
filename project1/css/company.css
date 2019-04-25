@@ -1,0 +1,38 @@
+#d1{
+    color: white;
+    background-repeat: no-repeat;
+    background-size: 1500px 800px;
+    height: 400px;
+    width: 100%;
+    padding: 100px;
+}
+#d1 h5{
+    font-family: sans-serif;
+    font-size: 50px;
+}
+#sup{
+    background-color: tan;
+    border-color: tan;
+    color: white;
+}
+#d4 h1{
+    margin-left: 50px;
+    color: navy;
+    padding: 80px;
+    margin-top: 50px;
+    margin-bottom: -50px;
+}
+.img{
+    margin-top: -120px;
+}
+.par{
+    color: navy;
+    margin-top: 60px;
+}
+footer{
+    height: 100px;
+    background-color: black;
+}
+ul li{
+    list-style-type: none;
+}
